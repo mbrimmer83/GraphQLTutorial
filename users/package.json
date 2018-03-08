@@ -1,0 +1,22 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "Users graphql project",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "json:server": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Brimmer",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.1",
+    "json-server": "^0.12.1",
+    "lodash": "^4.17.5",
+    "nodemon": "^1.17.1"
+  }
+}
