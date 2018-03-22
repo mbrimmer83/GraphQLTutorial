@@ -1,18 +1,74 @@
 {
-    "users": [
-        { "id": "1", "firstName": "Matthew", "age": 34, "companyId": "4" },
-        { "id": "2", "firstName": "Emily", "age": 24, "companyId": "1" },
-        { "id": "3", "firstName": "Joe", "age": 26, "companyId": "1" },
-        { "id": "4", "firstName": "Samantha", "age": 30, "companyId": "2" },
-        { "id": "5", "firstName": "Abbie", "age": 28, "companyId": "3" },
-        { "id": "6", "firstName": "Ashley", "age": 28, "companyId": "3" },
-        { "id": "7", "firstName": "Bill", "age": 40, "companyId": "2" },
-        { "id": "8", "firstName": "Jane", "age": 21, "companyId": "2" }
-    ],
-    "companies": [
-        { "id": "1", "name": "Google", "description": "Search" },
-        { "id": "2", "name": "Facebook", "description": "Social Media" },
-        { "id": "3", "name": "Uber", "description": "Transportaion" },
-        { "id": "4", "name": "Turner", "description": "Media" }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Matthew",
+      "age": 34,
+      "companyId": "4"
+    },
+    {
+      "id": "2",
+      "firstName": "Emily",
+      "age": 24,
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "firstName": "Joe",
+      "age": 26,
+      "companyId": "1"
+    },
+    {
+      "id": "4",
+      "firstName": "Samantha",
+      "age": 30,
+      "companyId": "2"
+    },
+    {
+      "id": "5",
+      "firstName": "Abbie",
+      "age": 28,
+      "companyId": "3"
+    },
+    {
+      "id": "6",
+      "firstName": "Ashley",
+      "age": 28,
+      "companyId": "3"
+    },
+    {
+      "id": "7",
+      "firstName": "Bill",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "8",
+      "firstName": "Jane",
+      "age": 22,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "Search"
+    },
+    {
+      "id": "2",
+      "name": "Facebook",
+      "description": "Social Media"
+    },
+    {
+      "id": "3",
+      "name": "Uber",
+      "description": "Transportaion"
+    },
+    {
+      "id": "4",
+      "name": "Turner",
+      "description": "Media"
+    }
+  ]
 }
